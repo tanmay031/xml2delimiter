@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library_catalog>
+  <header>
+    <file_version>1.0</file_version>
+    <creation_date>2023-09-26</creation_date>
+  </header>
+
+  <library>
+    <book>
+      <title>The Great Gatsby</title>
+      <author name="F. Scott Fitzgerald"/>
+      <publication_year>1925</publication_year>
+      <isbn>9780743273565</isbn>
+      <genre>Classic Literature</genre>
+      <summary>A story of decadence and excess in Jazz Age America</summary>
+      <price value="12.99" currency="USD"/>
+      <in_stock>true</in_stock>
+    </book>
+
+    <book>
+      <title>To Kill a Mockingbird</title>
+      <author name="Harper Lee"/>
+      <publication_year>1960</publication_year>
+      <isbn>9780446310789</isbn>
+      <genre>Classic Literature</genre>
+      <summary>A novel of justice and racial inequality in the American South</summary>
+      <price value="14.99" currency="USD"/>
+      <in_stock>true</in_stock>
+    </book>
+
+    <book>
+      <title>1984</title>
+      <author name="George Orwell"/>
+      <publication_year>1949</publication_year>
+      <isbn>9780451524935</isbn>
+      <genre>Dystopian Fiction</genre>
+      <summary>A chilling portrayal of a totalitarian future society</summary>
+      <price value="11.99" currency="USD"/>
+      <in_stock>false</in_stock>
+    </book>
+  </library>
+
+  <footer>
+    <total_books>3</total_books>
+    <last_updated>2023-09-26T14:30:00Z</last_updated>
+  </footer>
+</library_catalog>

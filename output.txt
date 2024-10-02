@@ -1,0 +1,11 @@
+000|1.0|2023-09-26
+100|The Great Gatsby|F. Scott Fitzgerald|1925|9780743273565
+200|Classic Literature|A story of decadence and excess in Jazz Age America
+300|12.99|USD|true
+100|To Kill a Mockingbird|Harper Lee|1960|9780446310789
+200|Classic Literature|A novel of justice and racial inequality in the American South
+300|14.99|USD|true
+100|1984|George Orwell|1949|9780451524935
+200|Dystopian Fiction|A chilling portrayal of a totalitarian future society
+300|11.99|USD|false
+999|3|2023-09-26T14:30:00Z

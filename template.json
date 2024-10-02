@@ -1,0 +1,31 @@
+{
+  "header": {
+    "000":[
+      "file_version",
+      "creation_date"
+    ]
+  } ,
+  "book": {
+    "100": [
+      "title",
+      "author=name",
+      "publication_year",
+      "isbn"
+    ],
+    "200": [
+      "genre",
+      "summary"
+    ],
+    "300": [
+      "price=value",
+      "price=currency",
+      "in_stock"
+    ]
+  },
+  "footer": {
+    "999":[
+      "total_books",
+      "last_updated"
+    ]
+  } 
+}
